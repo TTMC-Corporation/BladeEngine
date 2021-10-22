@@ -1,0 +1,13 @@
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\bin\Debug\net6.0\Blade Engine.deps.json
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\bin\Debug\net6.0\Blade Engine.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\bin\Debug\net6.0\ref\Blade Engine.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\bin\Debug\net6.0\Blade Engine.pdb
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\obj\Debug\net6.0\Blade Engine.GlobalUsings.g.cs
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\obj\Debug\net6.0\Blade Engine.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\obj\Debug\net6.0\Blade Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\obj\Debug\net6.0\Blade Engine.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\obj\Debug\net6.0\Blade Engine.AssemblyInfo.cs
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\obj\Debug\net6.0\Blade Engine.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\obj\Debug\net6.0\Blade Engine.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\obj\Debug\net6.0\ref\Blade Engine.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Blade Engine\obj\Debug\net6.0\Blade Engine.pdb
